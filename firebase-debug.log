@@ -1,0 +1,21 @@
+[debug] [2020-06-19T12:55:28.818Z] ----------------------------------------------------------------------
+[debug] [2020-06-19T12:55:28.820Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\officepc2\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-06-19T12:55:28.820Z] CLI Version:   8.4.2
+[debug] [2020-06-19T12:55:28.820Z] Platform:      win32
+[debug] [2020-06-19T12:55:28.820Z] Node Version:  v12.16.1
+[debug] [2020-06-19T12:55:28.821Z] Time:          Fri Jun 19 2020 17:55:28 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-06-19T12:55:28.821Z] ----------------------------------------------------------------------
+[debug] [2020-06-19T12:55:28.821Z] 
+[debug] [2020-06-19T12:55:28.827Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-06-19T12:55:28.827Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\final backed 15-02-2020 Desktop and Documents\BASIT\auto-ID-card\idcard
+
